@@ -3,7 +3,6 @@
 This is Lucid Sonic Dreams only, the original version wasn't working on my computer and it was rife with tensorflow, moviepy, ffmpeg issues.
 I also ended up creating and screwing up many virtual environments to the degree that LucidSonicDream stopped getting recognised as a class. So, I changed the name locally.
 
-Original code belongs to Mikael Alafriz.
 
 ## Required Packages
 
